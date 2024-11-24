@@ -1,0 +1,13 @@
+{
+  "name": "msgjs",
+  "version": "1.0.0",
+  "description": "Dummy Air Defense System",
+  "type": "module",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
